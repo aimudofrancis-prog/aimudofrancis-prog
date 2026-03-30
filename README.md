@@ -11,7 +11,7 @@ Building high-performance autonomous infrastructure to empower SMEs and streamli
 
 ### 🌟 FEATURED SYSTEMS
 - [mcp-chat-widget](link-to-your-repo) - Seamless LLM integration for enterprise web apps.
-- [TaxPilot](link-to-your-repo) - Automated compliance & SaaS accounting for Nigerian markets.
+- [TaxPilot]([link-to-your-repo](https://github.com/aimudofrancis-prog/tax-pilot-SMEs)) - Automated compliance & SaaS accounting for Nigerian markets.
 
 ### 📊 SYSTEM STATS
 ![Racham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aimudofrancis-prog&show_icons=true&theme=tokyonight)
