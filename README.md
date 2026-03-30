@@ -56,11 +56,11 @@ Link to posts, talks, or resources you want highlighted. Example: "Articles on s
 ---
 
 ## Contact & socials
-- Email: your.email@example.com
-- Website: your.website.example
-- LinkedIn: linkedin.com/in/yourprofile
-- Twitter/X: @yourhandle
-(Add or remove channels as you like.)
+- Email: rachamtechstudio@gmail.com
+- Website: 
+- LinkedIn: linkedin.com/in/emmanuel-francis
+- Twitter/X: @Rachamlib
+
 
 ---
 
